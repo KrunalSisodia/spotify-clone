@@ -1,7 +1,7 @@
 .login {
   display: grid;
   place-items: center;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   height: 100vh;
   background-color: #000;
 }
